@@ -3,10 +3,10 @@
   "current-changelog": null,
   "default-mods": {
     "destination": "mods",
-    "list": "default-mods.json"
+    "resource": "default-mods.json"
   },
   "pure-mods": {
     "destination": "mods",
-    "list": "pure-mods.json"
+    "resource": "pure-mods.json"
   }
 }
