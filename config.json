@@ -1,6 +1,12 @@
 {
   "version": 1.0,
   "current-changelog": null,
-  "default-mods": "default-mods.json",
-  "pure-mods": "pure-mods.json"
+  "default-mods": {
+    "destination": "mods",
+    "list": "default-mods.json"
+  },
+  "pure-mods": {
+    "destination": "mods",
+    "list": "pure-mods.json"
+  }
 }
