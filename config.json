@@ -4,7 +4,7 @@
   "types": {
     "default-mods": {
       "destination": "mods",
-      "name": "Default Mods"
+      "name": "Default Mods",
       "resource": "default-mods.json"
     },
     "pure-mods": {
