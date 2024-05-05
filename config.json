@@ -1,14 +1,16 @@
 {
   "version": 1.0,
   "current-changelog": null,
-  "default-mods": {
-    "destination": "mods",
-    "name": "Default Mods"
-    "resource": "default-mods.json"
-  },
-  "pure-mods": {
-    "destination": "mods",
-    "name": "Unoptimized Mods",
-    "resource": "pure-mods.json"
+  "types": {
+    "default-mods": {
+      "destination": "mods",
+      "name": "Default Mods"
+      "resource": "default-mods.json"
+    },
+    "pure-mods": {
+      "destination": "mods",
+      "name": "Unoptimized Mods",
+      "resource": "pure-mods.json"
+    }
   }
 }
