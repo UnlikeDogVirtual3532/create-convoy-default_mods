@@ -11,6 +11,11 @@
       "destination": "mods",
       "name": "Unoptimized Mods",
       "resource": "pure-mods.json"
+    },
+    "oneblock-mods": {
+      "destination": "mods",
+      "name": "Extra: Oneblock",
+      "resource": "oneblock-mods"
     }
   }
 }
